@@ -2,12 +2,12 @@
   background-color: pink;
 }
 
-h1 {
+.h1 {
   color: blue;
   font-size: 3em;
 }
 
-h2 {
+.h2 {
   color: green;
   font-style: italic;
   font-weight: normal
